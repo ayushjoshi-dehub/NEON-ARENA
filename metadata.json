@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Sports Obstacle Race",
+  "description": "A 2-player multiplayer arcade game supporting both local keyboard controls and real-time WebSocket connection using session IDs to compete in fast-paced obstacle races, table tennis, soccer, and volleyball.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
